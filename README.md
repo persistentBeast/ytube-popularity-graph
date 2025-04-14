@@ -10,8 +10,8 @@ Design
 
 1. Accept raw video impresisons on kafka.
 2. Maintain globalKTable for video details.
-3. From impressions maintain stats for each video with secind wise impression counts.
-4. From the secind wise impression counts generate popularity graph for the video.
+3. From impressions maintain stats for each video with second wise impression counts.
+4. From the second wise impression counts generate popularity graph for the video.
 
 ----------------------------------------------------------------------------------------------
 
