@@ -1,5 +1,7 @@
 Simple Youtube Popularity Graph Using Kafka Streams
 
+The YouTube video timeline graph, also known as the activity graph or popularity graph, visually represents the most replayed segments of a video based on user engagement.
+
 ![image](https://github.com/user-attachments/assets/b250522e-456e-461b-b03e-3d6a6e8c6a45)
 
 ----------------------------------------------------------------------------------------------
